@@ -44,3 +44,7 @@ function downcv()
 {
   window.open("https://drive.google.com/file/d/102XCQahLT6kM_-aCYRGodfSWKmQ2zLl4/view?usp=drive_link")
 }
+function gmailh()
+{
+  window.open("linkedin.com/in/ajay-kumar-75721b225")
+}
