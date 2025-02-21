@@ -40,3 +40,7 @@ navLinks.forEach((link) => {
 function chatwa(){
   window.open("https://wa.link/i2pa09")
 }
+function downcv()
+{
+  window.open("https://drive.google.com/file/d/102XCQahLT6kM_-aCYRGodfSWKmQ2zLl4/view?usp=drive_link")
+}
