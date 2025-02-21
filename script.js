@@ -46,5 +46,5 @@ function downcv()
 }
 function gmailh()
 {
-  window.open("linkedin.com/in/ajay-kumar-75721b225")
+  window.open("https://www.linkedin.com/in/ajay-kumar-75721b225/overlay/contact-info/")
 }
