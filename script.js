@@ -37,13 +37,16 @@ let navLinks = document.querySelectorAll(".menu li a");
 navLinks.forEach((link) => {
   link.addEventListener("click", hideNavMenu);
 });
+// whats chat 
 function chatwa(){
   window.open("https://wa.link/i2pa09")
 }
+// download cv 
 function downcv()
 {
-  window.open("https://drive.google.com/file/d/102XCQahLT6kM_-aCYRGodfSWKmQ2zLl4/view?usp=drive_link")
+  window.open("https://drive.google.com/file/d/102XCQahLT6kM_-aCYRGodfSWKmQ2zLl4/view?usp=sharing")
 }
+// go to linked in 
 function gmailh()
 {
   window.open("https://www.linkedin.com/in/ajay-kumar-75721b225/overlay/contact-info/")
