@@ -37,3 +37,6 @@ let navLinks = document.querySelectorAll(".menu li a");
 navLinks.forEach((link) => {
   link.addEventListener("click", hideNavMenu);
 });
+function chatwa(){
+  window.open("https://wa.link/i2pa09")
+}
